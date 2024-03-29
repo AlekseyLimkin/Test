@@ -41,3 +41,4 @@ Bring me to life
 I've been living a lie
 There's nothing inside
 Bring me to life
+New string
